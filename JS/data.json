@@ -978,7 +978,7 @@
     "fire_emblem": [
         {
             "id": "Ninian",
-            "pfp": "images/pfp/fire_emblem/ninian.png",
+            "pfp": "../images/pfp/fire_emblem/ninian.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -1002,7 +1002,7 @@
         },
         {
             "id": "Camilla",
-            "pfp": "images/pfp/fire_emblem/camilla.png",
+            "pfp": "../images/pfp/fire_emblem/camilla.png",
             "details": {
                 "cm": 175,
                 "ft": "5'9\"",
@@ -1026,7 +1026,7 @@
         },
         {
             "id": "Dorothea",
-            "pfp": "images/pfp/fire_emblem/dorothea.png",
+            "pfp": "../images/pfp/fire_emblem/dorothea.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -1051,7 +1051,7 @@
         },
         {
             "id": "Mercedes",
-            "pfp": "images/pfp/fire_emblem/mercedes.png",
+            "pfp": "../images/pfp/fire_emblem/mercedes.png",
             "details": {
                 "cm": 169,
                 "ft": "5'7\"",
@@ -1078,7 +1078,7 @@
     "frutiger_aero": [
         {
             "id": "Frankie",
-            "pfp": "images/pfp/frutiger_aero/frankie.png",
+            "pfp": "../images/pfp/frutiger_aero/frankie.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -1102,7 +1102,7 @@
         },
         {
             "id": "Kitty",
-            "pfp": "images/pfp/frutiger_aero/kitty.png",
+            "pfp": "../images/pfp/frutiger_aero/kitty.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -1127,7 +1127,7 @@
         },
         {
             "id": "Toriel",
-            "pfp": "images/pfp/frutiger_aero/toriel.png",
+            "pfp": "../images/pfp/frutiger_aero/toriel.png",
             "details": {
                 "cm": 187,
                 "ft": "6'2\"",
@@ -1154,7 +1154,7 @@
     "girls_frontline": [
         {
             "id": "FAL",
-            "pfp": "images/pfp/girls_frontline/FAL.png",
+            "pfp": "../images/pfp/girls_frontline/FAL.png",
             "details": {
                 "cm": 178,
                 "ft": "5'10\"",
@@ -1178,7 +1178,7 @@
         },
         {
             "id": "Lind",
-            "pfp": "images/pfp/girls_frontline/lind.png",
+            "pfp": "../images/pfp/girls_frontline/lind.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -1202,7 +1202,7 @@
         },
         {
             "id": "Makiatto",
-            "pfp": "images/pfp/girls_frontline/makiatto.png",
+            "pfp": "../images/pfp/girls_frontline/makiatto.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -1226,7 +1226,7 @@
         },
         {
             "id": "Sabrina",
-            "pfp": "images/pfp/girls_frontline/sabrina.png",
+            "pfp": "../images/pfp/girls_frontline/sabrina.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -1250,7 +1250,7 @@
         },
         {
             "id": "Springfield",
-            "pfp": "images/pfp/girls_frontline/springfield.png",
+            "pfp": "../images/pfp/girls_frontline/springfield.png",
             "details": {
                 "cm": 180,
                 "ft": "5'11\"",
