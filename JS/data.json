@@ -7343,7 +7343,7 @@
     "rwby": [
         {
             "id": "Blake",
-            "pfp": "images/pfp/rwby/blake.png",
+            "pfp": "../images/pfp/rwby/blake.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -7368,7 +7368,7 @@
         },
         {
             "id": "Yang",
-            "pfp": "images/pfp/rwby/yang.png",
+            "pfp": "../images/pfp/rwby/yang.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -7393,7 +7393,7 @@
         },
         {
             "id": "Nora",
-            "pfp": "images/pfp/rwby/nora.png",
+            "pfp": "../images/pfp/rwby/nora.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -7420,7 +7420,7 @@
     "scene": [
         {
             "id": "Midna",
-            "pfp": "images/pfp/scene/midna.png",
+            "pfp": "../images/pfp/scene/midna.png",
             "details": {
                 "cm": 84,
                 "ft": "2'9\"",
@@ -7445,7 +7445,7 @@
         },
         {
             "id": "Sarah",
-            "pfp": "images/pfp/scene/sarah.png",
+            "pfp": "../images/pfp/scene/sarah.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -7469,7 +7469,7 @@
         },
         {
             "id": "Zelda",
-            "pfp": "images/pfp/scene/zelda.png",
+            "pfp": "../images/pfp/scene/zelda.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -7495,7 +7495,7 @@
     "synthwave": [
         {
             "id": "Emilia",
-            "pfp": "images/pfp/synthwave/emilia.png",
+            "pfp": "../images/pfp/synthwave/emilia.png",
             "details": {
                 "cm": 145,
                 "ft": "4'9\"",
@@ -7519,7 +7519,7 @@
         },
         {
             "id": "Ganyu",
-            "pfp": "images/pfp/synthwave/ganyu.png",
+            "pfp": "../images/pfp/synthwave/ganyu.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -7544,7 +7544,7 @@
         },
         {
             "id": "Grace",
-            "pfp": "images/pfp/synthwave/grace.jpg",
+            "pfp": "../images/pfp/synthwave/grace.jpg",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -7568,7 +7568,7 @@
         },
         {
             "id": "Palutena",
-            "pfp": "images/pfp/synthwave/palutena.png",
+            "pfp": "../images/pfp/synthwave/palutena.png",
             "details": {
                 "cm": 176,
                 "ft": "5'9\"",
@@ -7593,7 +7593,7 @@
         },
         {
             "id": "Peach",
-            "pfp": "images/pfp/synthwave/peach.png",
+            "pfp": "../images/pfp/synthwave/peach.png",
             "details": {
                 "cm": 186,
                 "ft": "6'1\"",
@@ -7618,7 +7618,7 @@
         },
         {
             "id": "Rosalina",
-            "pfp": "images/pfp/synthwave/rosalina.png",
+            "pfp": "../images/pfp/synthwave/rosalina.png",
             "details": {
                 "cm": 226,
                 "ft": "7'5\"",
@@ -7643,7 +7643,7 @@
         },
         {
             "id": "Sarahy",
-            "pfp": "images/pfp/synthwave/sarahy.png",
+            "pfp": "../images/pfp/synthwave/sarahy.png",
             "details": {
                 "cm": 193,
                 "ft": "6'4\"",
