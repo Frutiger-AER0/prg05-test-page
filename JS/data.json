@@ -2553,7 +2553,7 @@
     "indie_vtubers": [
         {
             "id": "Andou",
-            "pfp": "images/pfp/indie_vtubers/andou.png",
+            "pfp": "../images/pfp/indie_vtubers/andou.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -2577,7 +2577,7 @@
         },
         {
             "id": "AnniePants",
-            "pfp": "images/pfp/indie_vtubers/anniepants.png",
+            "pfp": "../images/pfp/indie_vtubers/anniepants.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -2601,7 +2601,7 @@
         },
         {
             "id": "Arielle",
-            "pfp": "images/pfp/indie_vtubers/arielle.png",
+            "pfp": "../images/pfp/indie_vtubers/arielle.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -2625,7 +2625,7 @@
         },
         {
             "id": "Artemis",
-            "pfp": "images/pfp/indie_vtubers/artemis.png",
+            "pfp": "../images/pfp/indie_vtubers/artemis.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -2649,7 +2649,7 @@
         },
         {
             "id": "Ayumi",
-            "pfp": "images/pfp/indie_vtubers/ayumi.png",
+            "pfp": "../images/pfp/indie_vtubers/ayumi.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -2673,7 +2673,7 @@
         },
         {
             "id": "Azura Dulait",
-            "pfp": "images/pfp/indie_vtubers/azura_dulait.png",
+            "pfp": "../images/pfp/indie_vtubers/azura_dulait.png",
             "details": {
                 "cm": 185,
                 "ft": "6'1\"",
@@ -2697,7 +2697,7 @@
         },
         {
             "id": "Baeya",
-            "pfp": "images/pfp/indie_vtubers/Baeya.png",
+            "pfp": "../images/pfp/indie_vtubers/Baeya.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -2721,7 +2721,7 @@
         },
         {
             "id": "Bao",
-            "pfp": "images/pfp/indie_vtubers/bao.png",
+            "pfp": "../images/pfp/indie_vtubers/bao.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -2745,7 +2745,7 @@
         },
       {
         "id": "Bonnie",
-        "pfp": "images/pfp/indie_vtubers/bonnie.png",
+        "pfp": "../images/pfp/indie_vtubers/bonnie.png",
         "details": {
           "cm": 160,
           "ft": "5'3\"",
@@ -2770,7 +2770,7 @@
       },
       {
         "id": "Boo",
-        "pfp": "images/pfp/indie_vtubers/boo.png",
+        "pfp": "../images/pfp/indie_vtubers/boo.png",
         "details": {
           "cm": 89,
           "ft": "2'11\"",
@@ -2794,7 +2794,7 @@
       },
         {
             "id": "Canaria",
-            "pfp": "images/pfp/indie_vtubers/canaria.png",
+            "pfp": "../images/pfp/indie_vtubers/canaria.png",
             "details": {
                 "cm": 174,
                 "ft": "5'9\"",
@@ -2818,7 +2818,7 @@
         },
       {
         "id": "Candii",
-        "pfp": "images/pfp/indie_vtubers/candii.png",
+        "pfp": "../images/pfp/indie_vtubers/candii.png",
         "details": {
           "cm": 152,
           "ft": "5'0\"",
@@ -2843,7 +2843,7 @@
       },
         {
             "id": "Cha Cha",
-            "pfp": "images/pfp/indie_vtubers/chacha.png",
+            "pfp": "../images/pfp/indie_vtubers/chacha.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -2867,7 +2867,7 @@
         },
         {
             "id": "Clover",
-            "pfp": "images/pfp/indie_vtubers/clover.png",
+            "pfp": "../images/pfp/indie_vtubers/clover.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -2891,7 +2891,7 @@
         },
         {
             "id": "Cottontail",
-            "pfp": "images/pfp/indie_vtubers/cottontail.png",
+            "pfp": "../images/pfp/indie_vtubers/cottontail.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -2915,7 +2915,7 @@
         },
       {
         "id": "Deme",
-        "pfp": "images/pfp/indie_vtubers/deme.png",
+        "pfp": "../images/pfp/indie_vtubers/deme.png",
         "details": {
           "cm": 158,
           "ft": "5'2\"",
@@ -2939,7 +2939,7 @@
       },
         {
             "id": "Dizzy",
-            "pfp": "images/pfp/indie_vtubers/dizzy.png",
+            "pfp": "../images/pfp/indie_vtubers/dizzy.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -2964,7 +2964,7 @@
         },
         {
             "id": "Dokibird",
-            "pfp": "images/pfp/indie_vtubers/dokibird.png",
+            "pfp": "../images/pfp/indie_vtubers/dokibird.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -2988,7 +2988,7 @@
         },
         {
             "id": "DyaRikku",
-            "pfp": "images/pfp/indie_vtubers/dyarikku.png",
+            "pfp": "../images/pfp/indie_vtubers/dyarikku.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -3012,7 +3012,7 @@
         },
         {
             "id": "Echo",
-            "pfp": "images/pfp/indie_vtubers/echo.png",
+            "pfp": "../images/pfp/indie_vtubers/echo.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -3036,7 +3036,7 @@
         },
       {
         "id": "Elara",
-        "pfp": "images/pfp/indie_vtubers/elara.png",
+        "pfp": "../images/pfp/indie_vtubers/elara.png",
         "details": {
           "cm": 165,
           "ft": "5'5\"",
@@ -3060,7 +3060,7 @@
       },
         {
             "id": "Elly",
-            "pfp": "images/pfp/indie_vtubers/elly.png",
+            "pfp": "../images/pfp/indie_vtubers/elly.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -3085,7 +3085,7 @@
         },
         {
             "id": "Ember",
-            "pfp": "images/pfp/indie_vtubers/ember.png",
+            "pfp": "../images/pfp/indie_vtubers/ember.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -3110,7 +3110,7 @@
         },
         {
             "id": "Emma",
-            "pfp": "images/pfp/indie_vtubers/emma.png",
+            "pfp": "../images/pfp/indie_vtubers/emma.png",
             "details": {
                 "cm": 175,
                 "ft": "5'9\"",
@@ -3134,7 +3134,7 @@
         },
         {
             "id": "Emmallama",
-            "pfp": "images/pfp/indie_vtubers/emmallama.png",
+            "pfp": "../images/pfp/indie_vtubers/emmallama.png",
             "details": {
                 "cm": 185,
                 "ft": "6'1\"",
@@ -3158,7 +3158,7 @@
         },
         {
             "id": "Faelina",
-            "pfp": "images/pfp/indie_vtubers/faelina.png",
+            "pfp": "../images/pfp/indie_vtubers/faelina.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -3182,7 +3182,7 @@
         },
         {
             "id": "FeFe",
-            "pfp": "images/pfp/indie_vtubers/fefe.png",
+            "pfp": "../images/pfp/indie_vtubers/fefe.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -3207,7 +3207,7 @@
         },
         {
             "id": "Foxyevoxy",
-            "pfp": "images/pfp/indie_vtubers/foxyevoxy.png",
+            "pfp": "../images/pfp/indie_vtubers/foxyevoxy.png",
             "details": {
                 "cm": 183,
                 "ft": "6'0\"",
@@ -3231,7 +3231,7 @@
         },
         {
             "id": "Froot",
-            "pfp": "images/pfp/indie_vtubers/froot.png",
+            "pfp": "../images/pfp/indie_vtubers/froot.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -3255,7 +3255,7 @@
         },
         {
             "id": "Gaz",
-            "pfp": "images/pfp/indie_vtubers/gaz.png",
+            "pfp": "../images/pfp/indie_vtubers/gaz.png",
             "details": {
                 "cm": 366,
                 "ft": "12'0\"",
@@ -3279,7 +3279,7 @@
         },
         {
             "id": "GEEGA",
-            "pfp": "images/pfp/indie_vtubers/geega.png",
+            "pfp": "../images/pfp/indie_vtubers/geega.png",
             "details": {
                 "cm": 147,
                 "ft": "4'10\"",
@@ -3303,7 +3303,7 @@
         },
       {
         "id": "Grape",
-        "pfp": "images/pfp/indie_vtubers/grape.png",
+        "pfp": "../images/pfp/indie_vtubers/grape.png",
         "details": {
           "cm": 170,
           "ft": "5'7\"",
@@ -3328,7 +3328,7 @@
       },
         {
             "id": "Grimmi",
-            "pfp": "images/pfp/indie_vtubers/grimmi.png",
+            "pfp": "../images/pfp/indie_vtubers/grimmi.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -3353,7 +3353,7 @@
         },
         {
             "id": "Harper",
-            "pfp": "images/pfp/indie_vtubers/harper.png",
+            "pfp": "../images/pfp/indie_vtubers/harper.png",
             "details": {
                 "cm": 174,
                 "ft": "5'9\"",
@@ -3377,7 +3377,7 @@
         },
         {
             "id": "Haruka",
-            "pfp": "images/pfp/indie_vtubers/haruka.png",
+            "pfp": "../images/pfp/indie_vtubers/haruka.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -3401,7 +3401,7 @@
         },
         {
             "id": "Hazumi",
-            "pfp": "images/pfp/indie_vtubers/hazumi.png",
+            "pfp": "../images/pfp/indie_vtubers/hazumi.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -3425,7 +3425,7 @@
         },
         {
             "id": "Hime",
-            "pfp": "images/pfp/indie_vtubers/hime.png",
+            "pfp": "../images/pfp/indie_vtubers/hime.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -3449,7 +3449,7 @@
         },
         {
             "id": "Inksie",
-            "pfp": "images/pfp/indie_vtubers/inksie.png",
+            "pfp": "../images/pfp/indie_vtubers/inksie.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -3473,7 +3473,7 @@
         },
         {
             "id": "Ironmouse",
-            "pfp": "images/pfp/indie_vtubers/ironmouse.png",
+            "pfp": "../images/pfp/indie_vtubers/ironmouse.png",
             "details": {
                 "cm": 147,
                 "ft": "4'10\"",
@@ -3497,7 +3497,7 @@
         },
         {
             "id": "Juniper",
-            "pfp": "images/pfp/indie_vtubers/juniper.png",
+            "pfp": "../images/pfp/indie_vtubers/juniper.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -3521,7 +3521,7 @@
         },
         {
             "id": "Kana",
-            "pfp": "images/pfp/indie_vtubers/kana.png",
+            "pfp": "../images/pfp/indie_vtubers/kana.png",
             "details": {
                 "cm": 125,
                 "ft": "4'1\"",
@@ -3545,7 +3545,7 @@
         },
         {
             "id": "Kasizil",
-            "pfp": "images/pfp/indie_vtubers/kasizil.png",
+            "pfp": "../images/pfp/indie_vtubers/kasizil.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -3569,7 +3569,7 @@
         },
         {
             "id": "Kira",
-            "pfp": "images/pfp/indie_vtubers/kira.png",
+            "pfp": "../images/pfp/indie_vtubers/kira.png",
             "details": {
                 "cm": 175,
                 "ft": "5'9\"",
@@ -3593,7 +3593,7 @@
         },
         {
             "id": "Kisa",
-            "pfp": "images/pfp/indie_vtubers/kisa.png",
+            "pfp": "../images/pfp/indie_vtubers/kisa.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -3617,7 +3617,7 @@
         },
         {
             "id": "Kson",
-            "pfp": "images/pfp/indie_vtubers/kson.png",
+            "pfp": "../images/pfp/indie_vtubers/kson.png",
             "details": {
                 "cm": 189,
                 "ft": "6'2\"",
@@ -3641,7 +3641,7 @@
         },
         {
             "id": "Leah",
-            "pfp": "images/pfp/indie_vtubers/leah.png",
+            "pfp": "../images/pfp/indie_vtubers/leah.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -3665,7 +3665,7 @@
         },
         {
             "id": "LuLu",
-            "pfp": "images/pfp/indie_vtubers/lulu.png",
+            "pfp": "../images/pfp/indie_vtubers/lulu.png",
             "details": {
                 "cm": 183,
                 "ft": "6'0\"",
@@ -3689,7 +3689,7 @@
         },
         {
             "id": "Lumi",
-            "pfp": "images/pfp/indie_vtubers/lumituber.png",
+            "pfp": "../images/pfp/indie_vtubers/lumituber.png",
             "details": {
                 "cm": 180,
                 "ft": "5'11\"",
@@ -3714,7 +3714,7 @@
         },
         {
             "id": "Lusealfer",
-            "pfp": "images/pfp/indie_vtubers/lusealfer.png",
+            "pfp": "../images/pfp/indie_vtubers/lusealfer.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -3738,7 +3738,7 @@
         },
         {
             "id": "Mai",
-            "pfp": "images/pfp/indie_vtubers/mai.png",
+            "pfp": "../images/pfp/indie_vtubers/mai.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -3762,7 +3762,7 @@
         },
         {
             "id": "Mako",
-            "pfp": "images/pfp/indie_vtubers/mako.png",
+            "pfp": "../images/pfp/indie_vtubers/mako.png",
             "details": {
                 "cm": 164,
                 "ft": "5'5\"",
@@ -3786,7 +3786,7 @@
         },
         {
             "id": "Mariya",
-            "pfp": "images/pfp/indie_vtubers/mariya.png",
+            "pfp": "../images/pfp/indie_vtubers/mariya.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -3811,7 +3811,7 @@
         },
         {
             "id": "Matara",
-            "pfp": "images/pfp/indie_vtubers/matara.png",
+            "pfp": "../images/pfp/indie_vtubers/matara.png",
             "details": {
                 "cm": 181,
                 "ft": "5'11\"",
@@ -3835,7 +3835,7 @@
         },
         {
             "id": "Megalodon",
-            "pfp": "images/pfp/indie_vtubers/megalodon.png",
+            "pfp": "../images/pfp/indie_vtubers/megalodon.png",
             "details": {
                 "cm": 290,
                 "ft": "9'6\"",
@@ -3859,7 +3859,7 @@
         },
         {
             "id": "Melody",
-            "pfp": "images/pfp/indie_vtubers/melody.png",
+            "pfp": "../images/pfp/indie_vtubers/melody.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -3883,7 +3883,7 @@
         },
         {
             "id": "Michi",
-            "pfp": "images/pfp/indie_vtubers/michi.png",
+            "pfp": "../images/pfp/indie_vtubers/michi.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -3907,7 +3907,7 @@
         },
         {
             "id": "Mika",
-            "pfp": "images/pfp/indie_vtubers/mika.png",
+            "pfp": "../images/pfp/indie_vtubers/mika.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -3931,7 +3931,7 @@
         },
       {
         "id": "MilkieVT",
-        "pfp": "images/pfp/indie_vtubers/milkievt.png",
+        "pfp": "../images/pfp/indie_vtubers/milkievt.png",
         "details": {
           "cm": 170,
           "ft": "5'7\"",
@@ -3955,7 +3955,7 @@
       },
         {
             "id": "Mint",
-            "pfp": "images/pfp/indie_vtubers/mint.png",
+            "pfp": "../images/pfp/indie_vtubers/mint.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -3979,7 +3979,7 @@
         },
       {
         "id": "Mint Fantome",
-        "pfp": "images/pfp/indie_vtubers/mint_fantome.png",
+        "pfp": "../images/pfp/indie_vtubers/mint_fantome.png",
         "details": {
           "cm": 149,
           "ft": "4'11\"",
@@ -4003,7 +4003,7 @@
       },
       {
         "id": "Mion",
-        "pfp": "images/pfp/indie_vtubers/mion.png",
+        "pfp": "../images/pfp/indie_vtubers/mion.png",
         "details": {
           "cm": 148,
           "ft": "4'10\"",
@@ -4028,7 +4028,7 @@
       },
         {
             "id": "Miori",
-            "pfp": "images/pfp/indie_vtubers/miori.png",
+            "pfp": "../images/pfp/indie_vtubers/miori.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -4052,7 +4052,7 @@
         },
         {
             "id": "Miss Lala",
-            "pfp": "images/pfp/indie_vtubers/miss_lala.png",
+            "pfp": "../images/pfp/indie_vtubers/miss_lala.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -4076,7 +4076,7 @@
         },
         {
             "id": "MochiiMochii",
-            "pfp": "images/pfp/indie_vtubers/mochiimochii.png",
+            "pfp": "../images/pfp/indie_vtubers/mochiimochii.png",
             "details": {
                 "cm": 156,
                 "ft": "5'1\"",
@@ -4100,7 +4100,7 @@
         },
         {
             "id": "Monarch",
-            "pfp": "images/pfp/indie_vtubers/amalee.png",
+            "pfp": "../images/pfp/indie_vtubers/amalee.png",
             "details": {
                 "cm": 178,
                 "ft": "5'10\"",
@@ -4124,7 +4124,7 @@
         },
       {
         "id": "MotherV3",
-        "pfp": "images/pfp/indie_vtubers/motherv3.png",
+        "pfp": "../images/pfp/indie_vtubers/motherv3.png",
         "details": {
           "cm": 195,
           "ft": "6'5\"",
@@ -4148,7 +4148,7 @@
       },
         {
             "id": "Nekrolina",
-            "pfp": "images/pfp/indie_vtubers/nekrolina.png",
+            "pfp": "../images/pfp/indie_vtubers/nekrolina.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -4172,7 +4172,7 @@
         },
         {
             "id": "Nimi",
-            "pfp": "images/pfp/indie_vtubers/nimi.png",
+            "pfp": "../images/pfp/indie_vtubers/nimi.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -4196,7 +4196,7 @@
         },
         {
             "id": "Nouvelle",
-            "pfp": "images/pfp/indie_vtubers/nouvelle.png",
+            "pfp": "../images/pfp/indie_vtubers/nouvelle.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -4220,7 +4220,7 @@
         },
         {
             "id": "NOVAe",
-            "pfp": "images/pfp/indie_vtubers/novae.png",
+            "pfp": "../images/pfp/indie_vtubers/novae.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -4245,7 +4245,7 @@
         },
         {
             "id": "Nyanners",
-            "pfp": "images/pfp/indie_vtubers/nyanners.png",
+            "pfp": "../images/pfp/indie_vtubers/nyanners.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -4270,7 +4270,7 @@
         },
         {
             "id": "Nyxiena",
-            "pfp": "images/pfp/indie_vtubers/nyxiena.png",
+            "pfp": "../images/pfp/indie_vtubers/nyxiena.png",
             "details": {
                 "cm": 169,
                 "ft": "5'7\"",
@@ -4294,7 +4294,7 @@
         },
         {
             "id": "OBKatiekat",
-            "pfp": "images/pfp/indie_vtubers/katie.png",
+            "pfp": "../images/pfp/indie_vtubers/katie.png",
             "details": {
                 "cm": 159,
                 "ft": "5'3\"",
@@ -4318,7 +4318,7 @@
         },
         {
             "id": "Ookamin",
-            "pfp": "images/pfp/indie_vtubers/ookamin.png",
+            "pfp": "../images/pfp/indie_vtubers/ookamin.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -4342,7 +4342,7 @@
         },
       {
         "id": "Pema",
-        "pfp": "images/pfp/indie_vtubers/pema.png",
+        "pfp": "../images/pfp/indie_vtubers/pema.png",
         "details": {
           "cm": 157,
           "ft": "5'2\"",
@@ -4366,7 +4366,7 @@
       },
         {
             "id": "Poseidon",
-            "pfp": "images/pfp/indie_vtubers/poseidon.png",
+            "pfp": "../images/pfp/indie_vtubers/poseidon.png",
             "details": {
                 "cm": 180,
                 "ft": "5'11\"",
@@ -4391,7 +4391,7 @@
         },
         {
             "id": "Pumpkin",
-            "pfp": "images/pfp/indie_vtubers/pumpkin.png",
+            "pfp": "../images/pfp/indie_vtubers/pumpkin.png",
             "details": {
                 "cm": 140,
                 "ft": "4'7\"",
@@ -4415,7 +4415,7 @@
         },
         {
             "id": "Rosedoodle",
-            "pfp": "images/pfp/indie_vtubers/rosedoodle.png",
+            "pfp": "../images/pfp/indie_vtubers/rosedoodle.png",
             "details": {
                 "cm": 156,
                 "ft": "5'1\"",
@@ -4440,7 +4440,7 @@
         },
       {
         "id": "Runie",
-        "pfp": "images/pfp/indie_vtubers/runie.png",
+        "pfp": "../images/pfp/indie_vtubers/runie.png",
         "details": {
           "cm": 162,
           "ft": "5'4\"",
@@ -4465,7 +4465,7 @@
       },
       {
         "id": "Ruzuu",
-        "pfp": "images/pfp/indie_vtubers/ruzuu.png",
+        "pfp": "../images/pfp/indie_vtubers/ruzuu.png",
         "details": {
           "cm": 171,
           "ft": "5'7\"",
@@ -4489,7 +4489,7 @@
       },
         {
             "id": "Sansinjin",
-            "pfp": "images/pfp/indie_vtubers/sansinjin.png",
+            "pfp": "../images/pfp/indie_vtubers/sansinjin.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -4513,7 +4513,7 @@
         },
         {
             "id": "Saruei",
-            "pfp": "images/pfp/indie_vtubers/saruei.png",
+            "pfp": "../images/pfp/indie_vtubers/saruei.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -4538,7 +4538,7 @@
         },
         {
             "id": "Senzawa",
-            "pfp": "images/pfp/indie_vtubers/senzawa.png",
+            "pfp": "../images/pfp/indie_vtubers/senzawa.png",
             "details": {
                 "cm": 141,
                 "ft": "4'8\"",
@@ -4562,7 +4562,7 @@
         },
         {
             "id": "Shibi",
-            "pfp": "images/pfp/indie_vtubers/shibi.png",
+            "pfp": "../images/pfp/indie_vtubers/shibi.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -4587,7 +4587,7 @@
         },
         {
             "id": "Shylily",
-            "pfp": "images/pfp/indie_vtubers/shylily.png",
+            "pfp": "../images/pfp/indie_vtubers/shylily.png",
             "details": {
                 "cm": 156,
                 "ft": "5'1\"",
@@ -4612,7 +4612,7 @@
         },
         {
             "id": "Silvervale",
-            "pfp": "images/pfp/indie_vtubers/silvervale.png",
+            "pfp": "../images/pfp/indie_vtubers/silvervale.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -4637,7 +4637,7 @@
         },
         {
             "id": "Sinder",
-            "pfp": "images/pfp/indie_vtubers/sinder.png",
+            "pfp": "../images/pfp/indie_vtubers/sinder.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -4661,7 +4661,7 @@
         },
         {
             "id": "SkyAboveMe",
-            "pfp": "images/pfp/indie_vtubers/sky.png",
+            "pfp": "../images/pfp/indie_vtubers/sky.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -4685,7 +4685,7 @@
         },
         {
             "id": "Skydarc",
-            "pfp": "images/pfp/indie_vtubers/skydarc.png",
+            "pfp": "../images/pfp/indie_vtubers/skydarc.png",
             "details": {
                 "cm": 169,
                 "ft": "5'7\"",
@@ -4709,7 +4709,7 @@
         },
         {
             "id": "Snoozy",
-            "pfp": "images/pfp/indie_vtubers/snoozy.png",
+            "pfp": "../images/pfp/indie_vtubers/snoozy.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -4734,7 +4734,7 @@
         },
         {
             "id": "Spite",
-            "pfp": "images/pfp/indie_vtubers/spite.png",
+            "pfp": "../images/pfp/indie_vtubers/spite.png",
             "details": {
                 "cm": 274,
                 "ft": "9'0\"",
@@ -4756,33 +4756,9 @@
                 "pregnant": false
             }
         },
-      {
-        "id": "Squchan",
-        "pfp": "images/pfp/indie_vtubers/squchan.png",
-        "details": {
-          "cm": 165,
-          "ft": "5'5\"",
-          "weight": 50.3,
-          "body_artist": "orristerioso",
-          "obese_artist": "davielwithfries",
-          "age": 1000,
-          "birthday": "18/10/1021",
-          "level": 0,
-          "stuffings": 0,
-          "diet": "high",
-          "exercise": "none",
-          "gender": "Female",
-          "status": "Drawing!",
-          "personality": [ "motivated", "hungry" ],
-          "hobbies": [ "Drawing", "Looking at space", "Snacking" ],
-          "favorite_foods": [ "Cookies", "Candy", "Chocolate", "Muffins", "Croissants", "Pie", "Macarons", "Soda", "Wine" ],
-          "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
-          "pregnant": false
-        }
-      },
         {
             "id": "Sugi",
-            "pfp": "images/pfp/indie_vtubers/sugi.png",
+            "pfp": "../images/pfp/indie_vtubers/sugi.png",
             "details": {
                 "cm": 69,
                 "ft": "2'3\"",
@@ -4806,7 +4782,7 @@
         },
       {
         "id": "Sunhee",
-        "pfp": "images/pfp/indie_vtubers/sunhee.png",
+        "pfp": "../images/pfp/indie_vtubers/sunhee.png",
         "details": {
           "cm": 149,
           "ft": "4'11\"",
@@ -4830,7 +4806,7 @@
       },
         {
             "id": "Taece",
-            "pfp": "images/pfp/indie_vtubers/taece.png",
+            "pfp": "../images/pfp/indie_vtubers/taece.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -4854,7 +4830,7 @@
         },
         {
             "id": "Toma",
-            "pfp": "images/pfp/indie_vtubers/toma.png",
+            "pfp": "../images/pfp/indie_vtubers/toma.png",
             "details": {
                 "cm": 151,
                 "ft": "4'11\"",
@@ -4878,7 +4854,7 @@
         },
         {
             "id": "Unou",
-            "pfp": "images/pfp/indie_vtubers/unou.png",
+            "pfp": "../images/pfp/indie_vtubers/unou.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -4902,7 +4878,7 @@
         },
         {
             "id": "Veibae",
-            "pfp": "images/pfp/indie_vtubers/vei.png",
+            "pfp": "../images/pfp/indie_vtubers/vei.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -4927,7 +4903,7 @@
         },
         {
             "id": "Velvet Noir",
-            "pfp": "images/pfp/indie_vtubers/velvetnoir.png",
+            "pfp": "../images/pfp/indie_vtubers/velvetnoir.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -4951,7 +4927,7 @@
         },
         {
             "id": "Vienna",
-            "pfp": "images/pfp/indie_vtubers/vienna.png",
+            "pfp": "../images/pfp/indie_vtubers/vienna.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -4975,7 +4951,7 @@
         },
       {
         "id": "Vivi",
-        "pfp": "images/pfp/indie_vtubers/vivi.png",
+        "pfp": "../images/pfp/indie_vtubers/vivi.png",
         "details": {
           "cm": 154,
           "ft": "5'1\"",
@@ -4999,7 +4975,7 @@
       },
         {
             "id": "Voraisha",
-            "pfp": "images/pfp/indie_vtubers/voraisha.png",
+            "pfp": "../images/pfp/indie_vtubers/voraisha.png",
             "details": {
                 "cm": 427,
                 "ft": "14'0\"",
@@ -5023,7 +4999,7 @@
         },
         {
             "id": "Wispluna",
-            "pfp": "images/pfp/indie_vtubers/wispluna.png",
+            "pfp": "../images/pfp/indie_vtubers/wispluna.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -5047,7 +5023,7 @@
         },
         {
             "id": "Yuni",
-            "pfp": "images/pfp/indie_vtubers/yuniiho.png",
+            "pfp": "../images/pfp/indie_vtubers/yuniiho.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -5071,7 +5047,7 @@
         },
         {
             "id": "Zentreya",
-            "pfp": "images/pfp/indie_vtubers/zentreya.png",
+            "pfp": "../images/pfp/indie_vtubers/zentreya.png",
             "details": {
                 "cm": 177,
                 "ft": "5'10\"",
@@ -5097,7 +5073,7 @@
     "instant_girl": [
         {
             "id": "Angel",
-            "pfp": "images/pfp/instant_girl/angel.png",
+            "pfp": "../images/pfp/instant_girl/angel.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -5121,7 +5097,7 @@
         },
         {
             "id": "Devil",
-            "pfp": "images/pfp/instant_girl/devil.png",
+            "pfp": "../images/pfp/instant_girl/devil.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -5145,7 +5121,7 @@
         },
         {
             "id": "Chloe",
-            "pfp": "images/pfp/instant_girl/chloe.png",
+            "pfp": "../images/pfp/instant_girl/chloe.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -5169,7 +5145,7 @@
         },
         {
             "id": "Iggy",
-            "pfp": "images/pfp/instant_girl/iggy.png",
+            "pfp": "../images/pfp/instant_girl/iggy.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -5193,7 +5169,7 @@
         },
         {
             "id": "Sapphire",
-            "pfp": "images/pfp/instant_girl/sapphire.png",
+            "pfp": "../images/pfp/instant_girl/sapphire.png",
             "details": {
                 "cm": 145,
                 "ft": "4'9\"",
@@ -5217,7 +5193,7 @@
         },
         {
             "id": "Lilac",
-            "pfp": "images/pfp/instant_girl/lilac.png",
+            "pfp": "../images/pfp/instant_girl/lilac.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -5241,7 +5217,7 @@
         },
         {
             "id": "Vicky",
-            "pfp": "images/pfp/instant_girl/vicky.png",
+            "pfp": "../images/pfp/instant_girl/vicky.png",
             "details": {
                 "cm": 190,
                 "ft": "6'3\"",
@@ -5265,7 +5241,7 @@
         },
         {
             "id": "Rikki",
-            "pfp": "images/pfp/instant_girl/rikki.png",
+            "pfp": "../images/pfp/instant_girl/rikki.png",
             "details": {
                 "cm": 148,
                 "ft": "4'10\"",
