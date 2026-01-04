@@ -1,0 +1,414 @@
+{
+  "Asian": [
+    {
+      "name": "Tonkotsu Ramen - 1 bowl",
+      "calories": 879,
+      "serving_size": 832
+    },
+    {
+      "name": "California Roll - 1 piece",
+      "calories": 44,
+      "serving_size": 26
+    },
+    {
+      "name": "Salmon Sushi - 1 piece",
+      "calories": 90,
+      "serving_size": 50
+    },
+    {
+      "name": "Tuna Sushi - 1 piece",
+      "calories": 59,
+      "serving_size": 50
+    },
+    {
+      "name": "Beef Udon - 1 bowl",
+      "calories": 734,
+      "serving_size": 821
+    },
+    {
+      "name": "Chicken Udon - 1 bowl",
+      "calories": 608,
+      "serving_size": 755
+    }
+  ],
+  "Burgers": [
+    {
+      "name": "Big Slut Burger - 1 burger",
+      "calories": 1227,
+      "serving_size": 490
+    },
+    {
+      "name": "Calliburger - 1 burger",
+      "calories": 1400,
+        "serving_size": 188
+    },
+    {
+      "name": "Vegan Burger - 1 burger",
+      "calories": 298,
+      "serving_size": 170
+    }
+  ],
+  "Cakes": [
+    {
+      "name": "Chocolate Cake - 1 slice",
+      "calories": 352,
+      "serving_size": 95
+    }
+  ],
+  "Chips": [
+    {
+      "name": "Potato Chips - 1 bag",
+      "calories": 1217,
+      "serving_size": 227
+    },
+    {
+      "name": "Pringles - 1 can",
+      "calories": 853,
+      "serving_size": 165
+    }
+  ],
+  "Desserts": [
+    {
+      "name": "Brownie - 1 brownie",
+      "calories": 233,
+      "serving_size": 50
+    },
+    {
+      "name": "Chocolate Chip Cookies - 1 cookie",
+      "calories": 148,
+      "serving_size": 30
+    },
+    {
+      "name": "Glazed Donut - 1 donut",
+      "calories": 269,
+      "serving_size": 64
+    },
+    {
+      "name": "Shiori's Donuts - 1 donut",
+      "calories": 1275,
+      "serving_size": 219
+    },
+    {
+      "name": "Shiori's Eclairs - 1 eclair",
+      "calories": 1372,
+      "serving_size": 277
+    },
+    {
+      "name": "American Pancake - 1 pancake",
+      "calories": 91,
+      "serving_size": 40
+    }
+  ],
+  "Drinks": [
+    {
+      "name": "Beer - 1 can",
+      "calories": 155,
+      "serving_size": 355
+    },
+    {
+      "name": "Coca Cola - 1 can",
+      "calories": 155,
+      "serving_size": 355
+    },
+    {
+      "name": "Liquid Butter - 1 glass",
+      "calories": 1434,
+      "serving_size": 200
+    },
+    {
+      "name": "Orange Fanta - 1 can",
+      "calories": 180,
+      "serving_size": 355
+    },
+    {
+      "name": "Lactoshake - 1 large milkshake",
+      "calories": 762,
+      "serving_size": 680
+    },
+    {
+      "name": "Red Wine - 1 wine glass",
+      "calories": 125,
+      "serving_size": 147
+    },
+    {
+      "name": "Water - 1 glass",
+      "calories": 0,
+      "serving_size": 200
+    }
+  ],
+  "Fast Food": [
+    {
+      "name": "Chicken Burrito - 1 burrito",
+      "calories": 1862,
+      "serving_size": 1122
+    },
+    {
+      "name": "Fries - 1 medium portion",
+      "calories": 365,
+      "serving_size": 117
+    },
+    {
+      "name": "Fries - 1 large portion",
+      "calories": 480,
+      "serving_size": 154
+    },
+    {
+      "name": "Fries (with Cheese) - 1 large portion",
+      "calories": 843,
+      "serving_size": 198
+    },
+    {
+      "name": "Hot Dog - 1 hot dog",
+      "calories": 316,
+      "serving_size": 120
+    },
+    {
+      "name": "KFP Deluxe Bucket - 1 bucket",
+      "calories": 7060,
+      "serving_size": 1553
+    },
+    {
+      "name": "Poutine - 1 order",
+      "calories": 886,
+      "serving_size": 400
+    },
+    {
+      "name": "Beef Taco - 1 hard shell taco",
+      "calories": 210,
+      "serving_size": 102
+    },
+    {
+      "name": "Beef Taco - 1 soft shell taco",
+      "calories": 210,
+      "serving_size": 102
+    }
+  ],
+  "Fish": [
+    {
+      "name": "Salmon Fillet - 1 fillet",
+      "calories": 824,
+      "serving_size": 396
+    }
+  ],
+  "Ice Cream": [
+    {
+      "name": "American Bunny Churro Dough Life - 1 cone",
+      "calories": 293,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Cookie Dough Life - 1 cone",
+      "calories": 293,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Double Cookie Crumble - 1 cone",
+      "calories": 337,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Chubby Hubby - 1 cone",
+      "calories": 408,
+      "serving_size": 140
+    },
+    {
+      "name": "American Bunny Chubby Hubby - 1 gallon",
+      "calories": 21750,
+      "serving_size": 3785
+    }
+  ],
+  "Meat": [
+    {
+      "name": "Korean Barbeque Shotgun Shells - 1 shell",
+      "calories": 342,
+      "serving_size": 210
+    },
+    {
+      "name": "Roast Chicken - 1 chicken",
+      "calories": 1430,
+      "serving_size": 598
+    }
+  ],
+  "Monster": [
+    {
+      "name": "Monster Energy Drink 'Beach Vibes' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Bimbo Juice' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Dairy Daiquiri' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Eagles & Guns' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Emo Gurl' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Flowery Kimono' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'H.O.T  T.O  G.O' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Neon Lite' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Regular' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Sunset Sarsaparilla' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra 50s Fantasia' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Fancy Fantastic' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Geeky Grape' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Strawberry Dreams' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Monster Energy Drink 'Ultra Summer Sweetheart' - 1 can",
+      "calories": 12,
+      "serving_size": 500
+    },
+    {
+      "name": "Rem's Cum - 1 pint",
+      "calories": 8609,
+      "serving_size": 473
+    }
+  ],
+  "Pasta": [
+    {
+      "name": "Lasagna - 1 serving",
+      "calories": 344,
+      "serving_size": 255
+    },
+    {
+      "name": "Lasagna - 1 tray",
+      "calories": 2300,
+      "serving_size": 1704
+    }
+  ],
+  "Pastries": [
+    {
+      "name": "Croissant - 1 croissant",
+      "calories": 272,
+      "serving_size": 67
+    },
+    {
+      "name": "Shiori's Donuts - 1 donut",
+      "calories": 1275,
+      "serving_size": 219
+    },
+    {
+      "name": "Shiori's Breakfast Donuts - 1 donut",
+      "calories": 1791,
+      "serving_size": 364
+    },
+    {
+      "name": "Shiori's Eclairs - 1 eclair",
+      "calories": 1372,
+      "serving_size": 277
+    },
+    {
+      "name": "American Pancake - 1 pancake",
+      "calories": 91,
+      "serving_size": 40
+    }
+  ],
+  "Pizza": [
+        {
+        "name": "Cheese Pizza - 1 slice",
+        "calories": 213,
+        "serving_size": 80
+        },
+        {
+        "name": "Pepperoni Pizza - 1 slice",
+        "calories": 313,
+        "serving_size": 111
+        },
+      {
+        "name": "Pizza Rolls - 1 roll",
+        "calories": 35,
+        "serving_size": 14
+      }
+    ],
+  "Snacks": [
+      {
+        "name": "Butter - 1 stick",
+        "calories": 810,
+        "serving_size": 113
+      },
+      {
+        "name": "Chocolate - 1 piece",
+        "calories": 37,
+        "serving_size": 7
+      },
+      {
+        "name": "Chocolate Chip Cookies - 1 cookie",
+        "calories": 148,
+        "serving_size": 30
+      },
+      {
+        "name": "Mini Chocolate Easter Egg - 1 egg",
+        "calories": 45,
+        "serving_size": 8
+      },
+      {
+        "name": "Medium Chocolate Easter Egg - 1 egg",
+        "calories": 686,
+        "serving_size": 128
+      }
+    ],
+  "Sushi": [
+    {
+      "name": "California Roll - 1 piece",
+      "calories": 44,
+      "serving_size": 26
+    },
+    {
+      "name": "Salmon Sushi - 1 piece",
+      "calories": 90,
+      "serving_size": 50
+    },
+    {
+      "name": "Tuna Sushi - 1 piece",
+      "calories": 59,
+      "serving_size": 50
+    }
+  ]
+}

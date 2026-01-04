@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Ordering</title>
+    <script src="../JS/order.js" defer></script>
+    <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+</head>
+<body>
+<header>
+    <section class="title">
+        <h1>Soffometer V4</h1>
+        <p>A Synthwave Product</p>
+    </section>
+    <div class="header-button-container">
+        <div id="menu-button" class="menu-button">
+            <a href="home.html">Back to Menu</a>
+        </div>
+    </div>
+</header>
+<main>
+    <div class="character-selection">
+        <div id="select-id">
+            <label for="id-select">Select ID:</label>
+            <select id="id-select">
+                <option value="">--Select an ID--</option>
+            </select>
+        </div>
+        <div id="select-member">
+            <label for="member-select">Select Member:</label>
+            <select id="member-select" disabled>
+                <option value="">--Select a Member--</option>
+            </select>
+        </div>
+        <div id="name-input" class="disabled">
+            <label for="input-name">Fill in a name to order for:</label>
+            <input type="text" id="input-name">
+        </div>
+        <div>
+            <p id="change-modes">Click here to change modes</p>
+        </div>
+    </div>
+    <div class="food-selection">
+        <div>
+            <label for="tag-select">Select a Food Tag:</label>
+            <select id="tag-select">
+                <option value="">--Select a Food Tag--</option>
+            </select>
+        </div>
+        <div>
+            <label for="food-select">Select a Food:</label>
+            <select id="food-select" disabled>
+                <option value="">--Select a Food--</option>
+            </select>
+        </div>
+        <div>
+            <label for="food-submission">Add food to list</label>
+            <button id="food-submission">Submit</button>
+        </div>
+    </div>
+    <div class="food-order-list">
+        <div class="food-order-list-container" id="food-order-list-container">
+            <h2>Food Order List</h2>
+            <div id="food-order-list"></div>
+        </div>
+    </div>
+    <div class="order-information">
+        <div class="order-details">
+            <p id="tummy-size">Tummy Size: Unknown</p>
+            <p id="calories-ingested">Calories in the Order: 0</p>
+        </div>
+        <div>
+            <label for="order">Get your receipt</label>
+            <button id="order">Download</button>
+        </div>
+    </div>
+</main>
+</body>
+</html>
