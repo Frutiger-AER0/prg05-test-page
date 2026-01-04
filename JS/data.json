@@ -5664,7 +5664,7 @@
     "nijisanji": [
         {
             "id": "Ange",
-            "pfp": "images/pfp/nijisanji/ange.png",
+            "pfp": "../images/pfp/nijisanji/ange.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -5689,7 +5689,7 @@
         },
         {
             "id": "Dola",
-            "pfp": "images/pfp/nijisanji/dola.png",
+            "pfp": "../images/pfp/nijisanji/dola.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -5714,7 +5714,7 @@
         },
         {
             "id": "Himawari",
-            "pfp": "images/pfp/nijisanji/himawari.png",
+            "pfp": "../images/pfp/nijisanji/himawari.png",
             "details": {
                 "cm": 153,
                 "ft": "5'0\"",
@@ -5739,7 +5739,7 @@
         },
         {
             "id": "Lize",
-            "pfp": "images/pfp/nijisanji/lize.png",
+            "pfp": "../images/pfp/nijisanji/lize.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -5764,7 +5764,7 @@
         },
         {
             "id": "Lulu",
-            "pfp": "images/pfp/nijisanji/lulu.png",
+            "pfp": "../images/pfp/nijisanji/lulu.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -5789,7 +5789,7 @@
         },
         {
             "id": "Saku",
-            "pfp": "images/pfp/nijisanji/saku.png",
+            "pfp": "../images/pfp/nijisanji/saku.png",
             "details": {
                 "cm": 148,
                 "ft": "4'10\"",
@@ -5814,7 +5814,7 @@
         },
         {
             "id": "Salome",
-            "pfp": "images/pfp/nijisanji/salome.png",
+            "pfp": "../images/pfp/nijisanji/salome.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -5839,7 +5839,7 @@
         },
         {
             "id": "Sara",
-            "pfp": "images/pfp/nijisanji/sara.png",
+            "pfp": "../images/pfp/nijisanji/sara.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -5864,7 +5864,7 @@
         },
         {
             "id": "Mika",
-            "pfp": "images/pfp/nijisanji/mika.png",
+            "pfp": "../images/pfp/nijisanji/mika.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -5889,7 +5889,7 @@
         },
         {
             "id": "Nara",
-            "pfp": "images/pfp/nijisanji/nara.png",
+            "pfp": "../images/pfp/nijisanji/nara.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -5914,7 +5914,7 @@
         },
         {
             "id": "Elira",
-            "pfp": "images/pfp/nijisanji/elira.png",
+            "pfp": "../images/pfp/nijisanji/elira.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -5939,7 +5939,7 @@
         },
         {
             "id": "Finana",
-            "pfp": "images/pfp/nijisanji/finana.png",
+            "pfp": "../images/pfp/nijisanji/finana.png",
             "details": {
                 "cm": 140,
                 "ft": "4'7\"",
@@ -5964,7 +5964,7 @@
         },
         {
             "id": "Pomu",
-            "pfp": "images/pfp/nijisanji/pomu.png",
+            "pfp": "../images/pfp/nijisanji/pomu.png",
             "details": {
                 "cm": 9,
                 "ft": "0'4\"",
@@ -5989,7 +5989,7 @@
         },
         {
             "id": "Rosemi",
-            "pfp": "images/pfp/nijisanji/rosemi.png",
+            "pfp": "../images/pfp/nijisanji/rosemi.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -6014,7 +6014,7 @@
         },
         {
             "id": "Petra",
-            "pfp": "images/pfp/nijisanji/petra.png",
+            "pfp": "../images/pfp/nijisanji/petra.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -6039,7 +6039,7 @@
         },
         {
             "id": "Selen",
-            "pfp": "images/pfp/nijisanji/selen.png",
+            "pfp": "../images/pfp/nijisanji/selen.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -6064,7 +6064,7 @@
         },
         {
             "id": "Millie",
-            "pfp": "images/pfp/nijisanji/millie.png",
+            "pfp": "../images/pfp/nijisanji/millie.png",
             "details": {
                 "cm": 150,
                 "ft": "4'11\"",
@@ -6089,7 +6089,7 @@
         },
         {
             "id": "Enna",
-            "pfp": "images/pfp/nijisanji/enna.png",
+            "pfp": "../images/pfp/nijisanji/enna.png",
             "details": {
                 "cm": 145,
                 "ft": "4'9\"",
@@ -6114,7 +6114,7 @@
         },
         {
             "id": "Reimu",
-            "pfp": "images/pfp/nijisanji/reimu.png",
+            "pfp": "../images/pfp/nijisanji/reimu.png",
             "details": {
                 "cm": 155,
                 "ft": "5'1\"",
@@ -6139,7 +6139,7 @@
         },
         {
             "id": "Nina",
-            "pfp": "images/pfp/nijisanji/nina.png",
+            "pfp": "../images/pfp/nijisanji/nina.png",
             "details": {
                 "cm": 174,
                 "ft": "5'9\"",
@@ -6164,7 +6164,7 @@
         },
         {
             "id": "Maria",
-            "pfp": "images/pfp/nijisanji/maria.png",
+            "pfp": "../images/pfp/nijisanji/maria.png",
             "details": {
                 "cm": 152,
                 "ft": "5'0\"",
@@ -6189,7 +6189,7 @@
         },
         {
             "id": "Scarle",
-            "pfp": "images/pfp/nijisanji/scarle.png",
+            "pfp": "../images/pfp/nijisanji/scarle.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -6214,7 +6214,7 @@
         },
         {
             "id": "Meloco",
-            "pfp": "images/pfp/nijisanji/meloco.png",
+            "pfp": "../images/pfp/nijisanji/meloco.png",
             "details": {
                 "cm": 164,
                 "ft": "5'5\"",
@@ -6239,7 +6239,7 @@
         },
         {
             "id": "Kotoka",
-            "pfp": "images/pfp/nijisanji/kotoka.png",
+            "pfp": "../images/pfp/nijisanji/kotoka.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -6264,7 +6264,7 @@
         },
         {
             "id": "Kunai",
-            "pfp": "images/pfp/nijisanji/kunai.png",
+            "pfp": "../images/pfp/nijisanji/kunai.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -6289,7 +6289,7 @@
         },
         {
             "id": "Victoria",
-            "pfp": "images/pfp/nijisanji/victoria.png",
+            "pfp": "../images/pfp/nijisanji/victoria.png",
             "details": {
                 "cm": 157,
                 "ft": "5'2\"",
@@ -6316,7 +6316,7 @@
     "nikke": [
         {
         "id": "Ade",
-        "pfp": "images/pfp/nikke/ade.png",
+        "pfp": "../images/pfp/nikke/ade.png",
         "details": {
           "cm": 167,
           "ft": "5'6\"",
@@ -6341,7 +6341,7 @@
         },
         {
             "id": "Anis",
-            "pfp": "images/pfp/nikke/anis.png",
+            "pfp": "../images/pfp/nikke/anis.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -6366,7 +6366,7 @@
         },
         {
           "id": "Arcana",
-          "pfp": "images/pfp/nikke/arcana.png",
+          "pfp": "../images/pfp/nikke/arcana.png",
           "details": {
             "cm": 182,
             "ft": "5'11",
@@ -6391,7 +6391,7 @@
         },
         {
             "id": "Bay",
-            "pfp": "images/pfp/nikke/bay.png",
+            "pfp": "../images/pfp/nikke/bay.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -6416,7 +6416,7 @@
         },
         {
             "id": "Bready",
-            "pfp": "images/pfp/nikke/bready.png",
+            "pfp": "../images/pfp/nikke/bready.png",
             "details": {
                 "cm": 161,
                 "ft": "5'3\"",
@@ -6441,7 +6441,7 @@
         },
         {
             "id": "Brid",
-            "pfp": "images/pfp/nikke/brid.png",
+            "pfp": "../images/pfp/nikke/brid.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -6466,7 +6466,7 @@
         },
         {
             "id": "Cinderella",
-            "pfp": "images/pfp/nikke/cinderella.png",
+            "pfp": "../images/pfp/nikke/cinderella.png",
             "details": {
                 "cm": 164,
                 "ft": "5'5\"",
@@ -6491,7 +6491,7 @@
         },
         {
         "id": "D",
-        "pfp": "images/pfp/nikke/d.png",
+        "pfp": "../images/pfp/nikke/d.png",
         "details": {
           "cm": 168,
           "ft": "5'6\"",
@@ -6516,7 +6516,7 @@
         },
         {
             "id": "Dorothy",
-            "pfp": "images/pfp/nikke/dorothy.png",
+            "pfp": "../images/pfp/nikke/dorothy.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -6541,7 +6541,7 @@
         },
         {
             "id": "Elegg",
-            "pfp": "images/pfp/nikke/elegg.png",
+            "pfp": "../images/pfp/nikke/elegg.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -6566,7 +6566,7 @@
         },
         {
         "id": "Emma",
-        "pfp": "images/pfp/nikke/emma.png",
+        "pfp": "../images/pfp/nikke/emma.png",
         "details": {
           "cm": 168,
           "ft": "5'6\"",
@@ -6591,7 +6591,7 @@
         },
         {
             "id": "Folkwang",
-            "pfp": "images/pfp/nikke/folkwang.png",
+            "pfp": "../images/pfp/nikke/folkwang.png",
             "details": {
                 "cm": 166,
                 "ft": "5'5\"",
@@ -6616,7 +6616,7 @@
         },
         {
         "id": "Frima",
-        "pfp": "images/pfp/nikke/frima.png",
+        "pfp": "../images/pfp/nikke/frima.png",
         "details": {
           "cm": 167,
           "ft": "5'6\"",
@@ -6641,7 +6641,7 @@
         },
         {
         "id": "Guilty",
-        "pfp": "images/pfp/nikke/guilty.png",
+        "pfp": "../images/pfp/nikke/guilty.png",
         "details": {
           "cm": 165,
           "ft": "5'5\"",
@@ -6666,7 +6666,7 @@
         },
         {
             "id": "Helm",
-            "pfp": "images/pfp/nikke/helm.png",
+            "pfp": "../images/pfp/nikke/helm.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -6691,7 +6691,7 @@
         },
         {
             "id": "Little Mermaid",
-            "pfp": "images/pfp/nikke/little_mermaid.png",
+            "pfp": "../images/pfp/nikke/little_mermaid.png",
             "details": {
                 "cm": 158,
                 "ft": "5'2\"",
@@ -6716,7 +6716,7 @@
         },
         {
             "id": "Ludmilla",
-            "pfp": "images/pfp/nikke/ludmilla.png",
+            "pfp": "../images/pfp/nikke/ludmilla.png",
             "details": {
                 "cm": 164,
                 "ft": "5'5\"",
@@ -6741,7 +6741,7 @@
         },
         {
             "id": "Maiden",
-            "pfp": "images/pfp/nikke/maiden.png",
+            "pfp": "../images/pfp/nikke/maiden.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -6766,7 +6766,7 @@
         },
         {
             "id": "Marian",
-            "pfp": "images/pfp/nikke/marian.png",
+            "pfp": "../images/pfp/nikke/marian.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -6791,7 +6791,7 @@
         },
         {
             "id": "Mary",
-            "pfp": "images/pfp/nikke/mary.png",
+            "pfp": "../images/pfp/nikke/mary.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -6816,7 +6816,7 @@
         },
         {
             "id": "Mast",
-            "pfp": "images/pfp/nikke/mast.png",
+            "pfp": "../images/pfp/nikke/mast.png",
             "details": {
                 "cm": 160,
                 "ft": "5'3\"",
@@ -6841,7 +6841,7 @@
         },
         {
             "id": "Mihara",
-            "pfp": "images/pfp/nikke/mihara.png",
+            "pfp": "../images/pfp/nikke/mihara.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -6866,7 +6866,7 @@
         },
         {
             "id": "Modernia",
-            "pfp": "images/pfp/nikke/modernia.png",
+            "pfp": "../images/pfp/nikke/modernia.png",
             "details": {
                 "cm": 162,
                 "ft": "5'4\"",
@@ -6891,7 +6891,7 @@
         },
         {
             "id": "Moran",
-            "pfp": "images/pfp/nikke/moran.png",
+            "pfp": "../images/pfp/nikke/moran.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
@@ -6916,7 +6916,7 @@
         },
         {
             "id": "Naga",
-            "pfp": "images/pfp/nikke/naga.png",
+            "pfp": "../images/pfp/nikke/naga.png",
             "details": {
                 "cm": 169,
                 "ft": "5'7\"",
@@ -6941,7 +6941,7 @@
         },
         {
             "id": "Neve",
-            "pfp": "images/pfp/nikke/neve.png",
+            "pfp": "../images/pfp/nikke/neve.png",
             "details": {
                 "cm": 168,
                 "ft": "5'6\"",
@@ -6966,7 +6966,7 @@
         },
         {
             "id": "Nihilister",
-            "pfp": "images/pfp/nikke/nihilister.png",
+            "pfp": "../images/pfp/nikke/nihilister.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -6991,7 +6991,7 @@
         },
         {
             "id": "Noir",
-            "pfp": "images/pfp/nikke/noir.png",
+            "pfp": "../images/pfp/nikke/noir.png",
             "details": {
                 "cm": 178,
                 "ft": "5'10\"",
@@ -7016,7 +7016,7 @@
         },
         {
             "id": "Noise",
-            "pfp": "images/pfp/nikke/noise.png",
+            "pfp": "../images/pfp/nikke/noise.png",
             "details": {
                 "cm": 165,
                 "ft": "5'5\"",
@@ -7041,7 +7041,7 @@
         },
         {
             "id": "Quency",
-            "pfp": "images/pfp/nikke/quency.png",
+            "pfp": "../images/pfp/nikke/quency.png",
             "details": {
                 "cm": 172,
                 "ft": "5'8\"",
@@ -7066,7 +7066,7 @@
         },
         {
             "id": "Rapi",
-            "pfp": "images/pfp/nikke/rapi.png",
+            "pfp": "../images/pfp/nikke/rapi.png",
             "details": {
                 "cm": 159,
                 "ft": "5'3\"",
@@ -7091,7 +7091,7 @@
         },
         {
         "id": "Rapunzel",
-        "pfp": "images/pfp/nikke/rapunzel.png",
+        "pfp": "../images/pfp/nikke/rapunzel.png",
         "details": {
           "cm": 178,
           "ft": "5'10\"",
@@ -7116,7 +7116,7 @@
         },
         {
             "id": "Red Hood",
-            "pfp": "images/pfp/nikke/red_hood.png",
+            "pfp": "../images/pfp/nikke/red_hood.png",
             "details": {
                 "cm": 171,
                 "ft": "5'7\"",
@@ -7141,7 +7141,7 @@
         },
         {
             "id": "Rosanna",
-            "pfp": "images/pfp/nikke/rosanna.png",
+            "pfp": "../images/pfp/nikke/rosanna.png",
             "details": {
                 "cm": 173,
                 "ft": "5'8\"",
@@ -7166,7 +7166,7 @@
         },
         {
             "id": "Rupee",
-            "pfp": "images/pfp/nikke/rupee.png",
+            "pfp": "../images/pfp/nikke/rupee.png",
             "details": {
                 "cm": 177,
                 "ft": "5'10\"",
@@ -7191,7 +7191,7 @@
         },
         {
         "id": "Soda",
-        "pfp": "images/pfp/nikke/soda.png",
+        "pfp": "../images/pfp/nikke/soda.png",
         "details": {
           "cm": 160,
           "ft": "5'3\"",
@@ -7216,7 +7216,7 @@
         },
         {
             "id": "Tia",
-            "pfp": "images/pfp/nikke/tia.png",
+            "pfp": "../images/pfp/nikke/tia.png",
             "details": {
                 "cm": 167,
                 "ft": "5'6\"",
@@ -7241,7 +7241,7 @@
         },
         {
             "id": "Trina",
-            "pfp": "images/pfp/nikke/trina.png",
+            "pfp": "../images/pfp/nikke/trina.png",
             "details": {
                 "cm": 171,
                 "ft": "5'7\"",
@@ -7266,7 +7266,7 @@
         },
         {
         "id": "Velvet",
-        "pfp": "images/pfp/nikke/velvet.png",
+        "pfp": "../images/pfp/nikke/velvet.png",
         "details": {
           "cm": 168,
           "ft": "5'6\"",
@@ -7291,7 +7291,7 @@
         },
         {
             "id": "Viper",
-            "pfp": "images/pfp/nikke/viper.png",
+            "pfp": "../images/pfp/nikke/viper.png",
             "details": {
                 "cm": 170,
                 "ft": "5'7\"",
@@ -7316,7 +7316,7 @@
         },
         {
             "id": "Volume",
-            "pfp": "images/pfp/nikke/volume.png",
+            "pfp": "../images/pfp/nikke/volume.png",
             "details": {
                 "cm": 163,
                 "ft": "5'4\"",
