@@ -48,6 +48,17 @@
       ]
     },
     {
+      "id": "Bonnie",
+      "posts": [
+        {
+          "type": "image",
+          "title": "haha nice",
+          "date": "2026-04-05",
+          "source": "../images/posts/nice.png"
+        }
+      ]
+    },
+    {
       "id": "Matara",
       "posts": [
         {
