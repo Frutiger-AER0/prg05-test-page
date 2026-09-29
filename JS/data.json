@@ -5659,6 +5659,31 @@
                 "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Body worship", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Fast Food Employment", "Vacation Gains", "Office Job", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Slob", "Messy", "Sweating", "Gain Multipliers" ],
                 "pregnant": false
             }
+        },
+        {
+            "id": "Rogue",
+            "pfp": "../images/pfp/marvel/rogue.png",
+            "details": {
+                "cm": 173,
+                "ft": "5'8\"",
+                "weight": 61.2,
+                "body_artist": "adiposesaleswoman",
+                "obese_artist": "educabezon",
+                "age": 31,
+                "birthday": "8/4",
+                "level": 0,
+                "stuffings": 0,
+                "diet": "medium",
+                "exercise": "low",
+                "gender": "Female",
+                "group": "X-Men",
+                "status": "What're you lookin' for sugah~?",
+                "personality": [ "motivated", "flirty" ],
+                "hobbies": [ "Crime Fightin'", "Hangin' out with my sugah(s)", "Relaxin'" ],
+                "favorite_foods": [ "Burgers", "Fries", "Cake", "Cookies", "Pastries", "Pie", "Fried Chicken", "Hotdogs", "Barbeque", "Sweets", "Candy", "Chocolate", "Ice Cream", "Soda", "Tea", "Wine" ],
+                "kinks": [ "Foodplay", "Stuffing", "Weight gain", "Teasing", "Burping", "Affection", "Cuddling", "Sex", "Pregnancy", "Belly Fucking", "Hugs", "Kisses", "Immobility", "Cosplay", "Bimbofication", "Cheerleading", "Trophee Wife", "Vacation Gains", "Hypnotism", "Corruption", "Coercion", "False Diet Advice", "Crushing", "Humiliation", "Slob", "Messy", "Sweating", "Gain Multipliers", "Body worship" ],
+                "pregnant": false
+            }
         }
     ],
     "nijisanji": [
